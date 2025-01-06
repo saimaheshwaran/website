@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.sai</groupId>
     <artifactId>MyWebSite</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>MyWebSite</name>
     <description>MyWebSite</description>
     <properties>
